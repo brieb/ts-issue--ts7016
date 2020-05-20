@@ -1,3 +1,5 @@
+# typescript@~3.8
+
 ```
 $ rm -rf build && yarn tsc -b tsconfig.soln.json 
 yarn run v1.22.4
@@ -11,4 +13,13 @@ projects/proj-03/index.ts:1:20 - error TS7016: Could not find a declaration file
 Found 1 error.
 
 error Command failed with exit code 2.
+```
+
+# typescript@~3.9
+
+```
+$ rm -rf build && yarn tsc -b tsconfig.soln.json 
+yarn run v1.22.4
+$ .../node_modules/.bin/tsc -b tsconfig.soln.json
+✨  Done in 1.05s.
 ```
