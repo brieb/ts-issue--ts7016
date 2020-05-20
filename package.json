@@ -4,6 +4,6 @@
   "author": "Brie <723547+brieb@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "typescript": "~3.8"
+    "typescript": "~3.9"
   }
 }
